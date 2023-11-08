@@ -55,7 +55,7 @@ img {
     padding: 18px 32px;
 }
 .button:hover {
-    background: #0090aa;
+    opacity: 0.8;
 }
 
 /* iframe */
